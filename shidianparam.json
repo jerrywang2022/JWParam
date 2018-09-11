@@ -1,0 +1,35 @@
+{
+    "GCShidian":{
+        "updateUrl": "",
+        "review":"NO",
+        "updateTitle":"",
+        "version":"1.2.1",
+        "iapItem":"com.yhc.shidian.year",
+        "iapName":"十点一年畅听会员￥188",
+        "downloadSwitch":"NO",
+        "iapSwitch":"YES",
+        "scanCode": "",
+        "rateUrl": "",
+        "channelsInfo":[{
+                "channelId":"265897",
+                "title":"十点读书",
+                "avatar":"http://fdfs.xmcdn.com/group14/M03/06/85/wKgDZFbFaifjILrcAADtk9VhGbs948_web_large.jpg",
+                "albumScanAvatar":"",
+                "albumScanCode":"",
+                "albumScanWord":"",
+                },
+                {
+                "channelId":"321787",
+                "title":"一个人听",
+                "avatar":"http://fdfs.xmcdn.com/group32/M01/6E/90/wKgJUFn4EV_DiI8AAAEhxSLI2pw799_mobile_large.jpg",
+                "albumScanAvatar":"",
+                "albumScanCode":"",
+                "albumScanWord":"",
+                }],
+    },
+}
+
+
+
+
+
