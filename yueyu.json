@@ -1,4 +1,5 @@
 {
+    "GCShidian":{
     "updateUrl": "",
     "review":"NO",
     "updateTitle":"",
@@ -49,4 +50,5 @@
                         "albumScanCode":"",
                         "albumScanWord":"",
                     }],
+    },
 }
